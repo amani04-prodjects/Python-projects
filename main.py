@@ -5,7 +5,7 @@ print("I will help you learn Python syntax by giving you some exercises.")
 print("First, let's select a topic, difficulty level, and game mode.")
 
 # ----------------------------
-# Choose Mode
+# Choose Mode this will determine if the user gets multiple choice questions or coding exercises
 # ----------------------------
 
 def Choose_modes():
